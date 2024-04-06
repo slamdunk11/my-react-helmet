@@ -6,9 +6,9 @@ https://my-react-helmet-git-feat-seo-slamdunk11s-projects.vercel.app/
 
 
 ## 개발환경 세팅
-- yarn create react app
-- yarn add react-helmet-async
-
+- yarn install
+- yarn start
+  
 ### 각 파일의 역할
 - MetaTag.js -> Helmet 적용, meta 태그 적용
 
